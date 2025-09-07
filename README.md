@@ -24,6 +24,9 @@ This project aims to translate the textures and texts of **Half-Life** into othe
 
 These translations are made by the community. This repository gathers the editable `.psd` textures and translated texts for the game.
 
+> [!WARNING]
+> This project is currently under closed development.
+
 ## Available Translations
 - 🇧🇷 Portuguese (Brazil) - ⬇️ [Download translation](https://github.com/source-br/Community-Translations-for-Narbacular-Drop/releases/download/continuous/Brazilian.7z)
 
