@@ -28,7 +28,7 @@ These translations are made by the community. This repository gathers the editab
 > This project is currently under closed development.
 
 ## Available Translations
-- 🇧🇷 Portuguese (Brazil) - ⬇️ [Download translation](https://github.com/source-br/Community-Translations-for-Narbacular-Drop/releases/download/continuous/Brazilian.7z)
+- 🇧🇷 Portuguese (Brazil) - ⬇️ [Download translation](https://github.com/source-br/Community-Translations-for-Half-Life/releases/download/continuous/Brazilian.7z)
 
 ## How to Contribute
 
