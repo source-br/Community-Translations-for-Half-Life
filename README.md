@@ -30,7 +30,7 @@ These translations are made by the community, and this repository aggregates the
 - [About the Translations](https://github.com/source-br/Community-Translations-for-GoldSrc/wiki/About-the-Translations)
 
 ## Available Translations
-- 🇧🇷 Portuguese (Brazil) - ⬇️ [Download translation](https://github.com/source-br/Community-Translations-for-GoldSrc/releases/download/continuous/Half-Life-Brazilian.7z)
+- 🇧🇷 Portuguese (Brazil) - ⬇️ [Download translation](https://github.com/source-br/Community-Translations-for-GoldSrc/releases/download/continuous/HL-Brazilian.7z)
 
 ## How to Collaborate
 
@@ -43,8 +43,8 @@ If you have knowledge, you can translate the game into your language, or improve
    - Or contact us via [Discord](https://discord.gg/tVNv6SNZZT).
 
 2. **Translations for other languages or improvements**
-   - Read the documentation and contact the team if you want further guidance.
-   - After validation, your translation will be added to the project with due credits.
+   - Read the documentation and contact the team if you want further guidance.
+   - After validation, your translation will be added to the project with due credits.
 
 ## Donations 
 

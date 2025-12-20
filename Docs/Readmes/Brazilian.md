@@ -14,7 +14,7 @@
 
 [![Diretrizes](https://img.shields.io/badge/Diretrizes-BR-f37c1b.svg)](https://github.com/source-br/.github/blob/main/guidelines/diretrizes.md)
 [![Documentação](https://img.shields.io/badge/Documentação-Wiki-f37c1b.svg)](../PT-BR/Documentação.md)
-[![Baixar](https://img.shields.io/badge/Baixar%20tradução-BR-f37c1b.svg)](https://github.com/source-br/Community-Translations-for-Half-Life/releases/download/continuous/Brazilian.7z)
+[![Baixar](https://img.shields.io/badge/Baixar%20tradução-BR-f37c1b.svg)](https://github.com/source-br/Community-Translations-for-GoldSrc/releases/download/continuous/Half-Life-Brazilian.7z)
 [![Discord](https://img.shields.io/discord/1189628376504340590?logo=Discord&logoColor=%23FFFFFF&label=Servidor%20do%20Discord&color=f37c1b)](https://discord.gg/tVNv6SNZZT)
 
 </div>
@@ -34,7 +34,7 @@ Essas traduções são feitas pela comunidade, este repositório agrega as textu
 - 🇧🇷 Português (Brasil) - ⬇️ [Baixar tradução](https://github.com/source-br/Community-Translations-for-GoldSrc/releases/download/continuous/Half-Life-Brazilian.7z)
 ## Como colaborarar
 
-* [Documentação](../PT-BR/Documentação.md)
+* [Documentação](https://github.com/source-br/Community-Translations-for-GoldSrc/wiki/About-the-Translations)
 
 Se você possui conhecimento, você pode traduzir o jogo para o seu idioma, ou melhorar o projeto.
 
