@@ -23,7 +23,7 @@
 > [!WARNING]
 > This repository is part of the [**`Community Translations for GoldSrc`**](https://github.com/source-br/Community-Translations-for-GoldSrc). It was designed to be used as a submodule of the project's central repository, which should be used to manage this repository.
 
-This project aims to translate the textures,interface and texts of **Half-Life** into other languages that don’t have an official translation, in a community-driven, fan-to-fan way.
+This project aims to translate the textures, interface and texts of **Half-Life** into other languages that don’t have an official translation, in a community-driven, fan-to-fan way.
 
 These translations are made by the community, and this repository aggregates the textures in an editable `.psd` format. The texts and interface are located in the GoldSrc Community Translations repository.
 
@@ -34,7 +34,7 @@ These translations are made by the community, and this repository aggregates the
 
 ## How to Collaborate
 
-- [Documentation](../PT-BR/Documentação.md)
+- [Documentation](https://github.com/source-br/Community-Translations-for-GoldSrc/wiki)
 
 If you have knowledge, you can translate the game into your language, or improve the project.
 
